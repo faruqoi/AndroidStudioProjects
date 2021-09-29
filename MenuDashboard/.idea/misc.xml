@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/belanja.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/delapan.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/dua.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/empat.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/enam.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/hotel.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ibadah.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_belanja.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_delapan.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_dua.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_empat.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_enam.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_hotel.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_ibadah.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_kerajinan.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_kuliner.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_lima.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_satu.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_spbu.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_taman.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_tiga.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_transportasi.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_tujuh.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/ic_wisata.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/kerajinan.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/kuliner.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/lima.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/satu.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/spbu.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/taman.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/tiga.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/transportasi.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/tujuh.xml" value="0.2203125" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/drawable/wisata.xml" value="0.1" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MenuDashboard/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <color name="kuliner">#4c8087</color>
+    <color name="wisata">#4440b1</color>
+    <color name="belanja">#139599</color>
+    <color name="hotel">#ff9340</color>
+    <color name="spbu">#464343</color>
+    <color name="transportasi">#8a638e</color>
+    <color name="taman">#00FFFF</color>
+    <color name="ibadah">#FFFFFFFF</color>
+    <color name="kerajinan">#DC143C</color>
+</resources>
